@@ -16,7 +16,7 @@ function verificarPar(numero) {
  /*
  console.log ("Operações matamática simple");
  let num1 = parseFloat(prompt('digite um num1'));
- let num2 = parseFloat(prompt('digite um num1'));
+ let num2 = parseFloat(prompt('digite um num2'));
  function matematica(num1, num2) {
 
     const soma = num1 + num2;
@@ -40,3 +40,8 @@ function verificarPar(numero) {
  matematica(num1, num2);
 
  */
+
+ console.log("loço while para contagem regressiva");
+ for (let i = 10; i > 10; i--){
+    console.log("contagem regressiva" + i);
+ }
