@@ -1,3 +1,5 @@
+/*
+
 console.log ("oi profesor");
 let numero = prompt('digite um numero');
 function verificarPar(numero) {
@@ -7,4 +9,6 @@ function verificarPar(numero) {
         console.log(numero + " é igual a impar.");
     }
 }
-verificarPar(numero);
+ verificarPar(numero);
+ 
+ */
