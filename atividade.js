@@ -10,5 +10,16 @@ function verificarPar(numero) {
     }
 }
  verificarPar(numero);
- 
+
  */
+
+ console.log ("Operações matamática simple");
+ let num1 = parseFloat(prompt('digite um num1'));
+ let num2 = parseFloat(prompt('digite um num1'));
+ function matematica(num1, num2) {
+
+    num1 + num2
+  
+ }
+
+ matematica(numero);
