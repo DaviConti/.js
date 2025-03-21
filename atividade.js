@@ -49,11 +49,12 @@ function verificarPar(numero) {
 */
 
 console.log("Manipulacao de Strings");
-let texto = prompt('digite uma vrase');
+let texto = prompt('digite uma palavra');
 
 inverterTexto(texto);
-
 
 function inverterTexto(texto){
     texto.split('').reverse().join('');
 }
+
+inverterTexto()
