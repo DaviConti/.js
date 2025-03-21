@@ -42,8 +42,18 @@ function verificarPar(numero) {
  */
 
  /*
- console.log("loço while para contagem regressiva");
+ console.log("laço while para contagem regressiva");
  for (let i = 10; i > 0; i--){
     console.log("contagem regressiva: " + i);
  }
 */
+
+console.log("Manipulacao de Strings");
+let texto = prompt('digite uma vrase');
+
+inverterTexto(texto);
+
+
+function inverterTexto(texto){
+    texto.split('').reverse().join('');
+}
