@@ -68,5 +68,11 @@ function inverterTexto(texto){
 
 /////////////////////////////////////////////////////
 
-console.log("contagem de caracteres em uma string")
-let caracter = prompt('digite uma palavra')
+console.log("contagem de caracteres em uma string");
+let caracter = prompt('digite uma palavra');
+
+contagem(caracter);
+
+function contagem(caracter){
+    contagem = caracter
+}
