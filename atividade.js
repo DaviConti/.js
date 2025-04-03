@@ -76,3 +76,4 @@ contagem(caracter);
 function contagem(caracter){
     contagem = caracter
 }
+a
